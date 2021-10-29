@@ -1,0 +1,9 @@
+pwd _prints working directory
+ls _used to show sub directories
+ls -la _used to show all the files in various sub directories in a current directory.
+clear _clear the screen
+cd -_______ _used to change a directory
+touch file.txt _ used to create a file.
+rm file.txt _remove a file
+touch ............. to create and name a file
+mkdir ............... to make a folder
