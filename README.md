@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David Koomson
-- 👀 I’m interested in Data science and cybersecurity
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on cybersecurity projects
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Anlytics projects
 - 📫 How to reach me davidkoomson1s3@gmail.com
 
 <!---
